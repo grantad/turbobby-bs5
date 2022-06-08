@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2002a1ef.css",
+    "main.js": "/static/js/main.f9864739.js",
+    "static/js/787.592331d6.chunk.js": "/static/js/787.592331d6.chunk.js",
+    "static/media/REMAX-logo-no-trademark.svg": "/static/media/REMAX-logo-no-trademark.967a4ca033754bdc89568a3b3f2ed294.svg",
+    "index.html": "/index.html",
+    "main.2002a1ef.css.map": "/static/css/main.2002a1ef.css.map",
+    "main.f9864739.js.map": "/static/js/main.f9864739.js.map",
+    "787.592331d6.chunk.js.map": "/static/js/787.592331d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2002a1ef.css",
+    "static/js/main.f9864739.js"
+  ]
+}
